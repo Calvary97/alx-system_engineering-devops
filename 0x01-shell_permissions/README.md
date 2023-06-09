@@ -1,1 +1,1 @@
-My Shell Permissions Lessons
+My Shell Permissions tutorial
